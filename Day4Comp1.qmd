@@ -1,0 +1,15 @@
+---
+title: "Day4Comp108102023"
+format: html
+editor: visual
+---
+
+## Create vectors
+
+```{r}
+#use concatnate to create vectors in R [c()]
+rain <- c(3,5,10.1,6)
+
+rain_scaled <- 5 * rain
+
+```
